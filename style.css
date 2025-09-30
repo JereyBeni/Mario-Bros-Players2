@@ -1,0 +1,7 @@
+html,body{height:100%;margin:0;background:#87ceeb;font-family:sans-serif}
+#game{display:block;margin:0 auto;background:#6ec06e;touch-action:none}
+.hud{position:fixed;left:8px;top:8px;background:rgba(255,255,255,0.9);padding:8px;border-radius:8px}
+.controls{position:fixed;right:8px;bottom:8px;background:rgba(255,255,255,0.9);padding:8px;border-radius:8px}
+textarea{width:320px;height:120px}
+button{margin:4px 2px}
+#linkbox{max-width:360px}
